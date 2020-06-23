@@ -1,0 +1,9 @@
+{
+    "name": "Retrofit-Furnaces",
+    "version": "1.0.0",
+    "title": "Retrofit Furnaces",
+    "author": "Bikossor",
+    "homepage": "https://github.com/Bikossor/Retrofit-Furnaces",
+    "description": "Retrofit all your furnaces in Factorio",
+    "factorio_version": "0.17"
+}

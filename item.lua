@@ -7,7 +7,7 @@ retroSteelFurnace.enabled = false
 retroSteelFurnace.name = "retro-steel-furnace"
 retroSteelFurnace.ingredients = {
     {"steel-plate", 6},
-    {"stone-brick", 3},
+    {"stone-brick", 8},
     {"stone-furnace", 1}
 }
 retroSteelFurnace.result = "steel-furnace"
@@ -32,8 +32,9 @@ local retroElectricFurnace = table.deepcopy(data.raw["recipe"]["electric-furnace
 retroElectricFurnace.enabled = false
 retroElectricFurnace.name = "retro-electric-furnace"
 retroElectricFurnace.ingredients = {
-    {"steel-plate", 6},
-    {"stone-brick", 3},
+    {"steel-plate", 4},
+    {"stone-brick", 8},
+    {"advanced-circuit", 5},
     {"steel-furnace", 1}
 }
 retroElectricFurnace.result = "electric-furnace"

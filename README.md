@@ -1,7 +1,8 @@
 # Retrofit-Furnaces
-Retrofit all your furnaces in Factorio
 
 This mod adds two recipies so you can craft Steel furnaces using Stone furnaces or Electric furnaces using Steel furnaces.
+
+## Recipies:
 
 - Steel furnace:
     - 6 Iron plates
